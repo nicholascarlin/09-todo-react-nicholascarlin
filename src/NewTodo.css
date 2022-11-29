@@ -1,0 +1,29 @@
+#todo-input {
+	text-align: center;
+	margin: 0px 10px 0px 120px;
+	width: 50%;
+	border-radius: 5px;
+	border: 1px solid black;
+}
+#todo-input:hover,
+#todo-input:focus {
+	background-color: whitesmoke;
+	outline: none;
+}
+#input-container {
+	padding-top: 50px;
+}
+#submit-button {
+	border-radius: 10px;
+	margin: 0px 5px;
+	height: 35px;
+	border: 0px;
+	cursor: pointer;
+	color: white;
+	background-color: blue;
+	width: 80px;
+	margin-right: 20px;
+}
+#submit-button:hover {
+	background-color: rgba(0, 0, 255, 0.5);
+}
