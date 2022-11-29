@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/nicholascarlin/09-todo-react-nicholascarlin/static/css/main.31d6cfe0.css",
+    "main.js": "/nicholascarlin/09-todo-react-nicholascarlin/static/js/main.55b17743.js",
+    "index.html": "/nicholascarlin/09-todo-react-nicholascarlin/index.html",
+    "main.55b17743.js.map": "/nicholascarlin/09-todo-react-nicholascarlin/static/js/main.55b17743.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.55b17743.js"
+  ]
+}
